@@ -1,0 +1,129 @@
+
+    /*Question 01 CSSPart*/
+/*Element Selector*/
+div
+{
+margin: 0px;
+padding: 0px;
+}
+nav a
+{
+text-decoration: underline;
+padding: 12px 14px;
+background-color: #0004ff;
+width:40px;
+color: white;
+}
+nav
+{
+float: left;
+}
+nav a:hover
+{
+background-color: yellow;
+color: red;
+}/*
+
+/*Question 02 CSS Part*/
+/*.abc{
+    background-color: gold;
+    height: 250px;
+    width: 300px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 2px solid black;
+     margin-left: 450px;
+}
+}
+.image{
+    border-radius: 10px;
+}
+/*Question 03 CSS part/*
+/* Class Selector*/
+/*div
+{
+margin: 0px;
+padding: 0px;
+}
+nav a
+{
+text-decoration: underline;
+padding: 20px;
+background-color: #3d3d3e;
+width:40px;
+color: white;
+}
+nav
+{
+float: left;
+}
+nav a:hover
+{
+background-color: yellow;
+color: red;
+}
+.ram1 a{
+    border-right: 3px solid black;
+}
+.ram2 a{
+    border-right: 3px dashed #de0808;
+}
+.ram3 a{
+    border-right: 3px double #f3e705;
+}
+.ram4 a{
+    border-right: 3px dotted hsl(112, 97%, 43%);
+}
+.ram5 a{
+    border-right: 3px none black;
+}
+/*Question 04 CSS  Part*/
+/*.picture{
+    background-color: #6a6a6b;
+    text-align: center;
+    border: 2px solid black;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 400px;
+}
+img{
+   border-radius: 100px;
+}
+.paragraph{
+    text-align: center;
+    font-size: large;
+}
+/*Question 05 CSS Part*/
+/*h1{
+    font-family: 'Oswald', sans-serif;
+  text-align: center;
+  border: 2px solid black;
+  background-color: rgb(3, 3, 72);
+  color: white;
+}
+.font{
+    background-color: rgb(163, 248, 220);
+    text-align: center;
+    height: 400px;
+    width: 600px;
+    margin-left: 300px;
+}
+P{
+    font-family: 'Montserrat', sans-serif;
+}
+/*Question 07 CSS part*/
+/*.abc{
+    background-color: gold;
+    height: 250px;
+    width: 300px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 450px;
+}
+.image{
+    border-radius: 10px;
+}
+.abc:hover{
+    opacity: .5;
+}
